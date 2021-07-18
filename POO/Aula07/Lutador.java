@@ -118,7 +118,7 @@ public class Lutador {
         this.setDerrotas(this.getDerrotas() + 1);
     }
 
-    public void empaterLuta() {
+    public void empatarLuta() {
         this.setEmpates(this.getEmpates() + 1);
     }
 
